@@ -31,11 +31,11 @@ import random
 import asyncio
 
 random_photo = [
-    "https://graph.org/file/eabab7e8a3e5df87a0b04.jpg",
-    "https://graph.org/file/84956a27b8f85c90d5545.jpg",
-    "https://graph.org/file/e1c47b075db35d5c1ec7a.jpg",
-    "https://graph.org/file/872dc8af2a36bed43b9b6.jpg",
-    "https://graph.org/file/427f4869a158126957747.jpg",
+    "https://graph.org/file/31a4f9664ca946f186e18.jpg",
+    "https://graph.org/file/31a4f9664ca946f186e18.jpg",
+    "https://graph.org/file/31a4f9664ca946f186e18.jpg",
+    "https://graph.org/file/31a4f9664ca946f186e18.jpg",
+    "https://graph.org/file/31a4f9664ca946f186e18.jpg",
 ]
 
 bg_path = "BrandrdXMusic/assets/userinfo.png"
